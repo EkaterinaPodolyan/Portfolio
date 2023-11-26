@@ -1,7 +1,7 @@
 # Портфолио
 | название проекта | краткое описание | стек технологий |
 |:--|:----------------:|-------:|
-[Предсказание температуры стали]( https://github.com/EkaterinaPodolyan/alloy_temperature)|Модель машинного обучения, которая предскажет температуру стали. Целевой признак - конечная температура перед разливом в слябы. Требования: метрика MAE ≤ 6.8.|pandas, numpy, matplotlib, seaborn, sklearn, catboost
+[Предсказание температуры стали](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/alloy_temperature)|Модель машинного обучения, которая предскажет температуру стали. Целевой признак - конечная температура перед разливом в слябы. Требования: метрика MAE ≤ 6.8.|pandas, numpy, matplotlib, seaborn, sklearn, catboost
 |[Определение возраста покупателей](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/age_of_buyers)|Модель, которая по фотографии определит приблизительный возраст человека.|pandas, numpy, matplotlib, tensorflow
 |[Отток клиентов](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/customer_outflow)|Модель, которая даёт прогноз уйдёт клиет из банка в ближайшее время или нет, на основании исторических данных о поведении клиентов и расторжении договоров с банком. Необходимо выбрать модель с максимально большим значением F1|pandas, matplotlib, sklearn
 [Рекомендация тарифов](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/recommendation_of_tariffs)|Модель для задачи классификации, которая выберет тариф, подходяций клиенту на основании подготовленных данных о поведении клиентов|pandas, sklearn
