@@ -13,4 +13,4 @@
 [Исследование объявлений о продаже квартир](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/apartment_price) |Выявление параметры, для определения рыночной стоимости объектов недвижимости|pandas
 [Восстановление золота из руды](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/gold_from_ore)  | Прототип модели машинного обучения, которая предсказывает коэффициент восстановления золота из золотосодержащей руды по данным с параметрами добычи и очистки.|pandas, numpy, sklearn, matplotlib, seaborn
 [Исследование надёжности заёмщиков](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/investigation_of_borrowers'_debt)|Анализ влияния семейного положения, количества детей, дохода и цели кредита на его своевременное погашение.|pandas |
-[Классификация комментариев на позитивные и негативные]()
+[Классификация комментариев на позитивные и негативные](https://github.com/EkaterinaPodolyan/Portfolio/tree/main/toxic_comments)|Обучить модель классифицировать комментарии на позитивные и негативные.|pandas, nltk, tqdm, sklearn, catboost, matplotlib, seaborn|
